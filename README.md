@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year student in **Electrical & Electronic Engineering**
-- 🤖 Building intelligent systems in **AI, Computer Vision, and Embedded IoT**
+- 🤖 Building intelligent systems in **AI, Data Science, and Machine Learning**
 - 🧠 Currently working on:
   - Banana leaf disease classification using CNNs
   - AI-Powered Smart Wheelchair System
