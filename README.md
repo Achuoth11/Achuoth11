@@ -1,66 +1,84 @@
-<h1 align="center">Hi 👋, I'm Achuoth Akol</h1>
-<h3 align="center">Electrical & Electronic Engineering student | AI • Machine Learning • Data Science Enthusiast</h3>
+# Hi 👋, I'm Achuoth Akol Achuoth Deng
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Achuoth11&label=Profile%20views&color=0e75b6&style=flat" alt="Achuoth11" />
-</p>
+### Electrical & Electronics Engineer | AI • Computer Vision • Power Systems | IEEE Published Researcher
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year student in **Electrical & Electronic Engineering**
-- 🤖 Building intelligent systems in **AI, Data Science, and Machine Learning**
-- 🧠 Currently working on:
-  - Banana leaf disease classification using CNNs
-  - AI-Powered Smart Wheelchair System
-  - Heart Disease Detection using Deep Learning
-- 🌱 Learning: `TensorFlow`, `PyTorch`, `OpenCV`, `ESP32`, `MATLAB`, `IoT`
-- 📫 Reach me: *[achuothakol15@gamil.com]* <!-- Replace with your email -->
+- 🎓 Final-year B.Tech EEE student at **Amrita Vishwa Vidyapeetham** (CGPA: 8.91)
+- 🏆 **2× IEEE Published Author** — COMPUTINGCON 2025 & ICIICS 2026
+- 🚁 **Research Intern** — Search & Rescue Drones using YOLOv8 (99.33% mAP50)
+- 🏅 **Govt of India Study in India (SII) Scholarship** recipient
+- 🤖 Building intelligent systems at the intersection of AI, Computer Vision & Power Systems
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🔬 Current Research
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🚁 **Search & Rescue Drones** — YOLOv8n human detection + TI IWR1443 mmWave vital signs on Raspberry Pi
+- ⚡ **Power Transmission Fault Detection** — LightGBM achieving 99.78% accuracy (IEEE ICIICS 2026)
 
 ---
 
-### 🚀 Featured Projects
+## 📄 IEEE Publications
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🍌 **Banana Disease Classification** | Detects leaf diseases using CNN and TensorFlow | [GitHub Repo](https://github.com/universe7-techie/Banana-disease-classification-) |
-| 🫀 **Heart Disease Detection** | Deep learning model for predicting heart conditions | [GitHub Repo](https://github.com/Achuoth11/Heart-disease-detection-) |
-| ♿ **Smart AI-Powered Wheelchair** | Solar-powered wheelchair with voice + gesture control | *Coming Soon* |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achuoth11&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Achuoth11&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuoth11&layout=compact&theme=tokyonight" width="50%" />
-</p>
+| Paper | Conference | Year |
+|---|---|---|
+| [ML & DL-Based Fault Detection in Power Transmission Systems](https://github.com/Achuoth11/fault-detection-power-transmission) | IEEE ICIICS 2026 | 2026 |
+| [Deep Learning Classification of Banana Plant Leaf Diseases](https://ieeexplore.ieee.org/document/11378417) | IEEE COMPUTINGCON 2025 | 2025 |
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Featured Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Achuoth11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile) <!-- Replace with real link -->
+| Project | Description | Tech | Repo |
+|---|---|---|---|
+| 🚁 **Search & Rescue Drones** | YOLOv8n (99.33% mAP50) + mmWave radar vital signs on Raspberry Pi | YOLOv8, OpenCV, mmWave | [GitHub](https://github.com/Achuoth11/drone-search-rescue-yolov8) |
+| ♿ **Solar Wheelchair AI** | Voice + gesture + obstacle detection on Raspberry Pi | TFLite, MediaPipe, Arduino | [GitHub](https://github.com/Achuoth11/solar-wheelchair-ai) |
+| ⚡ **Power Fault Detection** | 99.78% accuracy fault localization — IEEE paper | LightGBM, MATLAB, Python | [GitHub](https://github.com/Achuoth11/fault-detection-power-transmission) |
+| 🍌 **Banana Disease CNN** | 97.14% accuracy — IEEE COMPUTINGCON 2025 | InceptionV3, TensorFlow | [GitHub](https://github.com/Achuoth11/banana-leaf-disease-cnn) |
+| 😊 **Emotion Detection** | Real-time MobileNetV2 — 90% accuracy | MobileNetV2, OpenCV | [GitHub](https://github.com/Achuoth11/emotion-detection-mobilenetv2) |
+| 🫀 **Heart Disease ML** | Logistic Regression + Random Forest + KNN | Scikit-learn, Python | [GitHub](https://github.com/Achuoth11/heart-disease-detection) |
+| ☀️ **Solar Inverter** | 50W rotating solar tracker + MATLAB Simulink | Arduino, MATLAB | [GitHub](https://github.com/Achuoth11/rotating-solar-inverter) |
+| ⚡ **Boost Converter** | CCM boost converter — 10-15V → 20V | MATLAB Simulink | [GitHub](https://github.com/Achuoth11/boost-converter-matlab) |
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something amazing together.*
+## 🛠️ Tech Stack
+
+**AI & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+
+**Hardware & Embedded**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Achuoth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achuoth11&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achuoth11&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/achuoth-akol-achuoth-deng)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Achuoth11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:achuothakol15@gmail.com)
+
+---
+
+⭐ *"It's fine to celebrate success but it is more important to heed the lessons of failure"*
