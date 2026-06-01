@@ -1,32 +1,34 @@
 # Hi 👋, I'm Achuoth Akol Achuoth Deng
 
-### Electrical & Electronics Engineer | AI • Computer Vision • Power Systems | IEEE Published Researcher
+### Electrical & Electronics Engineer | AI • Computer Vision • Power Systems | 4× Published Researcher
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech EEE student at **Amrita Vishwa Vidyapeetham** (CGPA: 8.91)
-- 🏆 **2× IEEE Published Author** — COMPUTINGCON 2025 & ICIICS 2026
-- 🚁 **Research Intern** — Search & Rescue Drones using YOLOv8 (99.33% mAP50)
+- 🎓 Final-year B.Tech EEE at **Amrita Vishwa Vidyapeetham** 
+- 📚 **4× Published Author** — 2 IEEE + 2 Springer (WLF7 2026)
+- 🚁 **Research Intern** — UAV Search & Rescue, Wireless Networks & Applications Lab
 - 🏅 **Govt of India Study in India (SII) Scholarship** recipient
 - 🤖 Building intelligent systems at the intersection of AI, Computer Vision & Power Systems
 
 ---
 
-## 🔬 Current Research
+## 📄 Publications
 
-- 🚁 **Search & Rescue Drones** — YOLOv8n human detection + TI IWR1443 mmWave vital signs on Raspberry Pi
-- ⚡ **Power Transmission Fault Detection** — LightGBM achieving 99.78% accuracy (IEEE ICIICS 2026)
+| Paper | Publisher | Status |
+|---|---|---|
+| [Integrated UAV Multi-Sensor Framework for Landslide SAR Victim Detection & Triage](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
+| [Real-Time UAV Vision for Semi-Buried Human Detection in Landslide SAR](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
+| [ML & DL-Based Fault Detection in Power Transmission Systems](https://github.com/Achuoth11/fault-detection-power-transmission) | **IEEE ICIICS 2026** | Accepted |
+| [Deep Learning Classification of Banana Plant Leaf Diseases](https://ieeexplore.ieee.org/document/11378417) | **IEEE COMPUTINGCON 2025** | Published |
 
 ---
 
-## 📄 IEEE Publications
+## 🔬 Current Research
 
-| Paper | Conference | Year |
-|---|---|---|
-| [ML & DL-Based Fault Detection in Power Transmission Systems](https://github.com/Achuoth11/fault-detection-power-transmission) | IEEE ICIICS 2026 | 2026 |
-| [Deep Learning Classification of Banana Plant Leaf Diseases](https://ieeexplore.ieee.org/document/11378417) | IEEE COMPUTINGCON 2025 | 2025 |
+- 🚁 **UAV Landslide SAR** — YOLOv8n (99.33% mAP50) + TI IWR1443 mmWave vital signs on DJI Matrice 350 RTK + Raspberry Pi 5
+- ⚡ **Power Transmission Fault Detection** — LightGBM 99.78% accuracy (IEEE ICIICS 2026)
 
 ---
 
@@ -34,9 +36,9 @@
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| 🚁 **Search & Rescue Drones** | YOLOv8n (99.33% mAP50) + mmWave radar vital signs on Raspberry Pi | YOLOv8, OpenCV, mmWave | [GitHub](https://github.com/Achuoth11/drone-search-rescue-yolov8) |
+| 🚁 **SAR Drone System** | YOLOv8n (99.33% mAP) + mmWave radar on DJI Matrice 350 RTK — 2 Springer papers | YOLOv8, ONNX, IWR1443, RPi5 | [GitHub](https://github.com/Achuoth11/drone-search-rescue-yolov8) |
 | ♿ **Solar Wheelchair AI** | Voice + gesture + obstacle detection on Raspberry Pi | TFLite, MediaPipe, Arduino | [GitHub](https://github.com/Achuoth11/solar-wheelchair-ai) |
-| ⚡ **Power Fault Detection** | 99.78% accuracy fault localization — IEEE paper | LightGBM, MATLAB, Python | [GitHub](https://github.com/Achuoth11/fault-detection-power-transmission) |
+| ⚡ **Power Fault Detection** | 99.78% fault localization — IEEE ICIICS 2026 | LightGBM, MATLAB, Python | [GitHub](https://github.com/Achuoth11/fault-detection-power-transmission) |
 | 🍌 **Banana Disease CNN** | 97.14% accuracy — IEEE COMPUTINGCON 2025 | InceptionV3, TensorFlow | [GitHub](https://github.com/Achuoth11/banana-leaf-disease-cnn) |
 | 😊 **Emotion Detection** | Real-time MobileNetV2 — 90% accuracy | MobileNetV2, OpenCV | [GitHub](https://github.com/Achuoth11/emotion-detection-mobilenetv2) |
 | 🫀 **Heart Disease ML** | Logistic Regression + Random Forest + KNN | Scikit-learn, Python | [GitHub](https://github.com/Achuoth11/heart-disease-detection) |
