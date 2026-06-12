@@ -20,7 +20,7 @@
 |---|---|---|
 | [Integrated UAV Multi-Sensor Framework for Landslide SAR Victim Detection & Triage](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
 | [Real-Time UAV Vision for Semi-Buried Human Detection in Landslide SAR](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
-| [ML & DL-Based Fault Detection in Power Transmission Systems](https://github.com/Achuoth11/fault-detection-power-transmission) | **IEEE ICIICS 2026** | Accepted |
+| [ML & DL-Based Fault Detection in Power Transmission Systems](https://ieeexplore.ieee.org/document/11483490) | **IEEE ICIICS 2026** | Published |
 | [Deep Learning Classification of Banana Plant Leaf Diseases](https://ieeexplore.ieee.org/document/11378417) | **IEEE COMPUTINGCON 2025** | Published |
 
 ---
