@@ -18,8 +18,8 @@
 
 | Paper | Publisher | Status |
 |---|---|---|
-| [Integrated UAV Multi-Sensor Framework for Landslide SAR Victim Detection & Triage](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
-| [Real-Time UAV Vision for Semi-Buried Human Detection in Landslide SAR](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **Springer WLF7 2026** | Submitted |
+|[Integrated UAV-Mounted Multi-Sensor Framework for Real-Time Detection and Physiological Triage of Disaster-Trapped Victims](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **ICRM 2026** | Submitted |
+| [A Real-Time UAV-Based Vision System for Semi-Buried Human Detection in Disaster Search and Rescue](https://github.com/Achuoth11/drone-search-rescue-yolov8) | **IEEE ICONAT 2026** | Submitted |
 | [ML & DL-Based Fault Detection in Power Transmission Systems](https://ieeexplore.ieee.org/document/11483490) | **IEEE ICIICS 2026** | Published |
 | [Deep Learning Classification of Banana Plant Leaf Diseases](https://ieeexplore.ieee.org/document/11378417) | **IEEE COMPUTINGCON 2025** | Published |
 
