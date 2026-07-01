@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech EEE at **Amrita Vishwa Vidyapeetham** 
-- 📚 **4× Published Author** — 2 IEEE + 2 Springer (WLF7 2026)
+- 📚 **4× Published Author** — 2 IEEE + 2 IEEE (Submitted)
 - 🚁 **Research Intern** — UAV Search & Rescue, Wireless Networks & Applications Lab
 - 🏅 **Govt of India Study in India (SII) Scholarship** recipient
 - 🤖 Building intelligent systems at the intersection of AI, Computer Vision & Power Systems
